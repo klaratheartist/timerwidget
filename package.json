@@ -1,0 +1,8 @@
+{
+  "name": "myspace-reloaded",
+  "version": "1.0.0",
+  "description": "A flashy MySpace-inspired homepage",
+  "scripts": {
+    "test": "echo 'No tests specified' && exit 0"
+  }
+}
